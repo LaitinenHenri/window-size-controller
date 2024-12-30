@@ -1,5 +1,7 @@
 # window-size-controller
 ****This project was created by Henri Laitinen****
+
+
 **INtruction for using**
 If you want to test this project please follow these instructions: first run the MultipleClientServer, this will launch the TCP server used for communication
 Second run the COntrollAppClient, this will control the windows izing on ou "target" computer.
