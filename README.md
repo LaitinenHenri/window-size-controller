@@ -2,9 +2,11 @@
 Created by Henri Laitinen around September 2024
 
 **Introduction**
+
 The goal of this project was to create an application that controls the window sizes of open applications on a computer. The initial idea was to eventually integrate this with a hardware gadget, such as a Raspberry Pi, that could serve as a dedicated control panel. While the hardware part was not completed due to time, budget, and practicality constraints, the software side was mostly finished and functional.
 
 **How to Use**
+
 To test this project, follow these steps:
 
 -Run the MultipleClientServer: This will launch the TCP server used for communication between components.
@@ -21,6 +23,7 @@ A demonstration video is available in this repository.
 
 
 **Software Components**
+
 The software consists of three parts:
 
 1. MultipleClientServer
@@ -44,6 +47,7 @@ Though not fully complete according to the original plan, it is functional.
 
 
 **What I Learned**
+
 This project was a tremendous learning experience, teaching me:
 
 Application Communication:
@@ -57,6 +61,7 @@ Creating an interactive UI with SFML and planning for feature expansion.
 While not fully finished, I am proud of the progress and the knowledge gained during this project. Many late nights were spent troubleshooting and building, and I enjoyed every moment.
 
 **Future Plans**
+
 There are several features I would like to implement or improve:
 
 User Interface Enhancements:
