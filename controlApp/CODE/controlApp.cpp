@@ -1,5 +1,6 @@
 // controlApp.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+// This code is created by Henri Laitinen
+// laitinenhenri@hotmail.com
 
 #include <iostream>
 #include "SFML/Graphics.hpp"
