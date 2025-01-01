@@ -1,3 +1,6 @@
+// This code is created by Henri Laitinen
+// laitinenhenri@hotmail.com
+
 #include "windowGui.h"
 
 
@@ -494,7 +497,7 @@ void windowGui::updatePulls() {
 
 //Returns vector inside a vector that contains size and position information of the windows on the gui
 //Information is in standarded order
-//1. x Position, 2. y position, ´3. width, 4. height
+//1. x Position, 2. y position, Â´3. width, 4. height
 //Vectors are in the same order as in rectangles vector
 string windowGui::resizingMessage(){
 	string windowInfo="";
