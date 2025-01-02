@@ -1,5 +1,8 @@
 **Window-Size Controller**
 
+**LINK TO DEMO VIDEO**
+https://youtu.be/D0me3ud1vPc
+
 Created by Henri Laitinen around September 2024
 
 **Introduction**
